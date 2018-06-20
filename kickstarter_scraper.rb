@@ -21,4 +21,7 @@ end
 #description:
   #project.css("p.bbcard_blurb").text 
 
+#location
+  #project.css(ul.)
+
 create_project_hash 
