@@ -23,5 +23,7 @@ end
 
 #location
   #project.css("ul.project-meta span.location-name").text 
+  
+
 
 create_project_hash 
