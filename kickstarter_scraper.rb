@@ -24,6 +24,7 @@ end
 #location
   #project.css("ul.project-meta span.location-name").text 
   
-
+#percent_funded
+  #project.css(ul.project-stats li.first.funded strong").text 
 
 create_project_hash 
